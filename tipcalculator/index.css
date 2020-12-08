@@ -1,0 +1,25 @@
+body{
+	width: 50%;
+	padding: 150px 330px 30px;
+}
+
+#tipCalculator{
+	margin: 20px 210px;
+	border: 4px solid black;
+	text-align: center;
+	height: 300px;
+	background: lightgrey;
+
+}
+.white{
+	width: 100px;
+	height: 2px;
+	background-color: black;
+}
+#calcBtn{
+	background: black;
+	color: white;
+	border: none;
+	font-size: 12px;
+	padding: 5px 10px;
+}
